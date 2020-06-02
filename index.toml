@@ -1,8 +1,368 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".git/COMMIT_EDITMSG"
+hash = "11996441588417a27af10cd7c5e6abdb570f18b1c00048fb39a2e0775279736c"
+
+[[files]]
+file = ".git/HEAD"
+hash = "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+
+[[files]]
+file = ".git/config"
+hash = "cfe7ba1238c9a78be7535d7c63bcaf5a4d5011d46b07c9b45d3bbf7d6c312dfe"
+
+[[files]]
+file = ".git/description"
+hash = "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+
+[[files]]
+file = ".git/hooks/applypatch-msg.sample"
+hash = "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+
+[[files]]
+file = ".git/hooks/commit-msg.sample"
+hash = "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+
+[[files]]
+file = ".git/hooks/fsmonitor-watchman.sample"
+hash = "9c34ab6527211ec8605b2a563f5329ed8f66dbfbd11e677c78da6c3171085604"
+
+[[files]]
+file = ".git/hooks/post-update.sample"
+hash = "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+
+[[files]]
+file = ".git/hooks/pre-applypatch.sample"
+hash = "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+
+[[files]]
+file = ".git/hooks/pre-commit.sample"
+hash = "d6d114e507a3295ff3a2e214611c2f5c0d13eaf0ed53f595ba02e4cc714fca18"
+
+[[files]]
+file = ".git/hooks/pre-merge-commit.sample"
+hash = "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+
+[[files]]
+file = ".git/hooks/pre-push.sample"
+hash = "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1"
+
+[[files]]
+file = ".git/hooks/pre-rebase.sample"
+hash = "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+
+[[files]]
+file = ".git/hooks/pre-receive.sample"
+hash = "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+
+[[files]]
+file = ".git/hooks/prepare-commit-msg.sample"
+hash = "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+
+[[files]]
+file = ".git/hooks/update.sample"
+hash = "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431"
+
+[[files]]
+file = ".git/index"
+hash = "8595a5a52303e81c109dd5ed06a2c8aef55c403ed2dd68b3cdaf4730d2e5ecc5"
+
+[[files]]
+file = ".git/info/exclude"
+hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = ".git/logs/HEAD"
+hash = "346b7310696fd43e1a5e8d71a93eb30e90021e9208d00af4673a6ea4ab2639ba"
+
+[[files]]
+file = ".git/logs/refs/heads/master"
+hash = "346b7310696fd43e1a5e8d71a93eb30e90021e9208d00af4673a6ea4ab2639ba"
+
+[[files]]
+file = ".git/objects/06/51468308000214218f8816662dcf72f996b4b4"
+hash = "7697e89ba2c3efd36ca226356fa6011ed0bf8f0063bda71950facb04a5fffc83"
+
+[[files]]
+file = ".git/objects/0b/9dca9d221ee4390530b1e5474ed8cfe8d210e9"
+hash = "2af6e936353a52016c6decb95653a36db41739c1e82f6f442440e92af235a18c"
+
+[[files]]
+file = ".git/objects/0c/9dc6fde782ab877a4e0fae2c55d23525026eea"
+hash = "66d1e2abaa4f218b1e86843b6e3fff6e1c21ee70830a4de1aa279bd95fd3b193"
+
+[[files]]
+file = ".git/objects/0f/3d619ce8de97aec577ca9967c2ab329827f1ca"
+hash = "4b58c055f19e0f5fee97707881639be073a1fd6a298f8f517b832feda20392ba"
+
+[[files]]
+file = ".git/objects/14/889e7ca2acd554dcdd3bc37eb5e8011df2b73f"
+hash = "1e6152aad3b5349f17f51e8a367618874e56fe8252b6667affc2fea9a860211d"
+
+[[files]]
+file = ".git/objects/15/c8b5d06902d87c4eebe248208e3eebb103d4c5"
+hash = "0809b46cbf192a2840c9b63696e2f2d2313c82e223a6b3be4eb27d214e45a844"
+
+[[files]]
+file = ".git/objects/17/9ab3136336b66eed8e6c809ee0ddb698ef98db"
+hash = "d39262f3bec1ad10b341ff7db46bf760909e056d84e28704bbf2a38783913a12"
+
+[[files]]
+file = ".git/objects/20/f7f43a3dea03374c3830d104e3c79bd95184cd"
+hash = "1abf2913e87d51182879c2f60cd0877c8eefa7c51cf13b6c8bbfc8ef6b640409"
+
+[[files]]
+file = ".git/objects/28/59c0e2fef846986f5b5963f8542131ece6a20a"
+hash = "160e3e633670f3ef8d5dc0abdc97d234a87fda4dd11a00d2e06f5f50dbfb54f9"
+
+[[files]]
+file = ".git/objects/2e/d056f0b1ab1b4b6d82412918536701c2acbd27"
+hash = "4ea4826e5a6731e9e3d65334ec07bb1ea24fb232474e1f9bba9df6602bb36cf7"
+
+[[files]]
+file = ".git/objects/33/b981930aa978b022b784dd57c54449cfe53799"
+hash = "ff55d310f701294572482cbd168da7f9f37bd21eab7f92903be6a0627617a6f1"
+
+[[files]]
+file = ".git/objects/38/799d14f2d95baa86d2c33e8480382ecc98fa37"
+hash = "368e62aa7cf2b9a4392d986f36ca8fceb878e6f27c7231cbd12fc6e3c87d81c3"
+
+[[files]]
+file = ".git/objects/3b/b17d6bc4f0ce89ce3fe2fe08472d8852198178"
+hash = "74ee30b447ade0f0b828c3a87103077a268d54347381b941c919669c7d7e6781"
+
+[[files]]
+file = ".git/objects/3e/d5bf6559583de776dff7100fac332b08480edb"
+hash = "1a134b3cd0d2a9d1d5dc2903ac5ca1960b7a7e4950dcad557be46d5e816ba016"
+
+[[files]]
+file = ".git/objects/3f/630237af70f43cdd0cfb86fca70736d1905b73"
+hash = "68318e381419edb5af42b23098bd2602019ed7ea02cff40d954ad01bc0d6ff06"
+
+[[files]]
+file = ".git/objects/44/dc164d4a965e86247ab2728a8f9b9f0513e040"
+hash = "74d71f0a3efa9dfff015364b4a823209aa119dcf245e4857aaf26068579b0f31"
+
+[[files]]
+file = ".git/objects/46/54c4b55f06b97d5644d9a3a0a37a978c71e8bf"
+hash = "466bbaaad75e261893b3dbb09092e9572df989c13fc1bb119ca3b1bb796716ba"
+
+[[files]]
+file = ".git/objects/4e/0f00abdb7e455fdf843cebae3285e0d24fbb07"
+hash = "61efb365a83d4252644d2513d2a34fe86df4d9b78d7f7214ed544696ec041976"
+
+[[files]]
+file = ".git/objects/50/c695ab811b7b22724f16e28fee745689d93b28"
+hash = "e10cc1096168e2cf5739ff53d8b3696923ffc88983705460fabd45e4e4444d86"
+
+[[files]]
+file = ".git/objects/55/c2e35b0e646d541c2d1409f207300110923b3e"
+hash = "35b7740e0b7a5e64efda90b47e4253df4003e6ddeeca6222d3806f26d254b9bb"
+
+[[files]]
+file = ".git/objects/56/51aba212b89b74d3b7f6ce3ae3684b1d61df3f"
+hash = "3808587a479fbf249eb11fe8df1e8d5672e61edd42f012c97f74bbcbb88217c8"
+
+[[files]]
+file = ".git/objects/59/5b1cad5b388fdb6d884d56cb46c069d93c9c09"
+hash = "fe4dc89686922d8b63dd97c959286a07bb52fc0e404c3ec95d17ef3ac292eca5"
+
+[[files]]
+file = ".git/objects/5c/883980cd4478c581c96b4e078655335099d362"
+hash = "895b76ea3e920ca0911753f93d9209836a5a21fb31e1f50e258dfa049797b8e4"
+
+[[files]]
+file = ".git/objects/60/530cf864c8a4c301ecf9ad884c872d4877f89e"
+hash = "cf514226449747dbb5c095df4c96637021c8859527be0a095c040fed126c7238"
+
+[[files]]
+file = ".git/objects/62/351a9308a6503ca7eb5098c36336d67e94a3af"
+hash = "4a4be66318407565e15270be424d71f55d7a3f0faf18977d04b07f74f56482a3"
+
+[[files]]
+file = ".git/objects/62/a7af21c846ab8d533121621f83c541520cfbfa"
+hash = "c57f4a552009b91cdbb909fb09dfb206ee45472d1ba7a767df34e2a9e233e5b1"
+
+[[files]]
+file = ".git/objects/63/c3674ba3a55606b17e24e16b5295bc480ed747"
+hash = "2a1e76bb6eb9a1bfcafd6087ee3eb78eb7d70007119a0dc6d13dbf135a0ea86e"
+
+[[files]]
+file = ".git/objects/64/6a0d842b94301213b8b5312b999ca4b0075584"
+hash = "afd760a9069eb30e610f690971d00445ee418ea375b9293e5527d2c950b8af42"
+
+[[files]]
+file = ".git/objects/65/879c9f7f8af1c204e435bcd581a79e1b00fd9c"
+hash = "0da5646a84edc4c81744aca33ce0323d4f9302aca490460b99cadff1a8573643"
+
+[[files]]
+file = ".git/objects/6b/dca0e4830e7de5b27187ffd160e782f99b0f84"
+hash = "92450033672f7318d4ff6e4313f73a64db5a9c8abddae7cdbf670c6efb667461"
+
+[[files]]
+file = ".git/objects/77/8cc993483d2e1f67019755b05b102e97649ed7"
+hash = "de0f115509c86e5a95e8cf1f9bb2b109ed6c8c65ade0ef00bb41ca61234ba179"
+
+[[files]]
+file = ".git/objects/7b/873fef14e588b821c2598aae848fd0e59d759f"
+hash = "fa8073ff628c9f85dc167b0f4595acdf009844d995a1cdd55dbdcdcfd43ec06e"
+
+[[files]]
+file = ".git/objects/82/afdf9a4ca32215de072e74764d85d234f6fcb6"
+hash = "b1958d0a1f8baa44309ddcb3e377de71da190f144d90079cf9814d1f728b048f"
+
+[[files]]
+file = ".git/objects/84/c8eec3c46875239cfa8f2f7e3a21c1fcc50f25"
+hash = "0c58b7bc98085e79ac5737283b963b87e911ea5d26cef031c9e7edbe3e15377d"
+
+[[files]]
+file = ".git/objects/86/4e4502192dc8d0d386fea7b547d2508eba8c8d"
+hash = "de585ab631836b21de055a982271b8244a1418a640cdd8731740085ef3290ebc"
+
+[[files]]
+file = ".git/objects/87/58b3c6bf706ba1c7ac8cd51264c063739d9da8"
+hash = "1bf8470beb0ddf025a4212e76f806d1472c89c9765b1bf7122aaab18fd85a6c8"
+
+[[files]]
+file = ".git/objects/8a/83d4fcd455641f1f70503a919f1901af3bffea"
+hash = "6567824ac33025d6c66c2c85f5451bfe58e6da128d0a9a00f9cca69462c4553e"
+
+[[files]]
+file = ".git/objects/8a/ed7d53a93895ae24b1afd4aec5e613f9b541bb"
+hash = "7930a2e4da7a1f21510004ac99abd021d2a81bcce83e12957a8417010d95b4ec"
+
+[[files]]
+file = ".git/objects/8b/0bbbd519f6b2a95ae99c9b0c9a6298d67a8deb"
+hash = "d9210069efe0d4c88524e2a428f2dbdd850660a5552cd38ca32f63a3f9b961b4"
+
+[[files]]
+file = ".git/objects/94/f29625da54afb6fb4626327c8f7a1e67e1f10f"
+hash = "13e7c704275e890ffa9dd448550b58d2ff95726862b14e349486e55f0b3e91c8"
+
+[[files]]
+file = ".git/objects/97/803fbd712c97f288397c4f3dc4b18012dc557f"
+hash = "9bb1b0de77c016aa48a8e1fa73f31178e7450b6cd46b45cc5716060806435ab3"
+
+[[files]]
+file = ".git/objects/98/eb78604795194ffca81fd88c0bf0525d6dc61c"
+hash = "d34ce9842414d871eb38c81787de481199ea054a6266dcaa49a8fb9b41beae55"
+
+[[files]]
+file = ".git/objects/9e/0fd4492a4b340c5a79add4cee7b9763e42199c"
+hash = "a308dc01ad62a5bed92b212f83f63c962ff36b61553fe549a65711ea26f7031b"
+
+[[files]]
+file = ".git/objects/a1/6e43233ee163ada3d37a513b5c65427cde3a26"
+hash = "3f6513ba382a28b42af7a1fc87a438e4f5cb84e287e055f2d212914fca4ff23f"
+
+[[files]]
+file = ".git/objects/a4/8e2bb8ab9acf07ae1c82c050350e6afb296d1f"
+hash = "d0257232f1636b73aa3ac50e61862d8312b1ec41b276359f17129d6f93983f8a"
+
+[[files]]
+file = ".git/objects/aa/03c9ab0910dbd7a85899a55849175211e8b185"
+hash = "4489f7f017cf2fe3f1ceb6e1ef6ff274cf40b7530ca0f5dada5d3cf99dd38d99"
+
+[[files]]
+file = ".git/objects/ad/621a329c64de5f71e7bc7ca0b8df42e7378f85"
+hash = "e36c0c2cb1896c51f9e3753d6205edd1512ccaf0091a8a668de15a2510a7979b"
+
+[[files]]
+file = ".git/objects/b7/7df32aaf701e6af8e99871c99755724937ff37"
+hash = "49c386f018e2c71fc5379c8a61d3cb7d640cb54494fd3420d6afec3e2900bf60"
+
+[[files]]
+file = ".git/objects/bd/6ee66973b54f83de2f46ddd55605a7ce8ba200"
+hash = "f50ef18991cdc497bc463b016813c2f907d01449e497376735f3e6d5401417b3"
+
+[[files]]
+file = ".git/objects/bd/8f6eea716323f7e1877f7d21fbab4254f53863"
+hash = "31b2ca72d6dacbb5f4affc53608c90ddcfadf5728877cdcb1d002542d1958b9c"
+
+[[files]]
+file = ".git/objects/bf/e6f2f3335a310fb1fa4177ef65ec70f38f9245"
+hash = "a5760346c32bbfe7ac2a29c8338991e72ccc3f14143098a489e610d3e870cb88"
+
+[[files]]
+file = ".git/objects/c0/17ff263f61036aa2309e59b76287055a90da49"
+hash = "cba930b614e05dad17cc551b595237b1c6f68f6f28b7059c2f27b1dc31eec702"
+
+[[files]]
+file = ".git/objects/c2/0287815ba748002d421d151ea153dcea88dec2"
+hash = "dd524b8a88c517241367b4ccfcfd411e520726db0127f77a5b2e50b05262bc7d"
+
+[[files]]
+file = ".git/objects/c7/b909bf42208fbc1fc886cb4220cdaeecfdecba"
+hash = "cd79ad4025dbe6b146c4f22d36576eca89a1beacc98ec7891e982189f5cfadda"
+
+[[files]]
+file = ".git/objects/cb/393e369501a01d559f82765c89de663ead35ee"
+hash = "211ad1a23b9e24d53a5f549900278fce40f921391991b43069eb97f7ed8e01d0"
+
+[[files]]
+file = ".git/objects/d0/deca8f168b9041b435db6b175b12f8f8ff65a6"
+hash = "aa4a6e483eb9a365225582c61d9d5420e161112fe8dab05c3c6c19c4618d8b14"
+
+[[files]]
+file = ".git/objects/d2/5288cd3b757e12a760078bf8d5951561e9b5db"
+hash = "7cd88b527f37d0356b40613e48ad71ffe4d25c2fceb26d1203e6c3da0580e038"
+
+[[files]]
+file = ".git/objects/d3/1cbec7cc4b0eec5b09a700e50724c55628d8ff"
+hash = "db8831f88d60db646e8ad2bd9d3fcf5c950f3713d31d89bc58ccc60bb8120259"
+
+[[files]]
+file = ".git/objects/d7/7864a99cbb760a5fb58bea4af81f943d289b00"
+hash = "5002ff08333aa30d9c9e5cf06a06d51e01f8324cd613a8120931af4733c6fe31"
+
+[[files]]
+file = ".git/objects/d9/275940ea04758c0210c33a689e182ff9910eba"
+hash = "6d3258c13cf35cc22fe392d5da1a794dacf2dacb7fd08166068ede688aae6966"
+
+[[files]]
+file = ".git/objects/db/84e57c1d70f3a34ed78b2aaa51e3701c8981e0"
+hash = "ca86058ee59aeeaae12bfc060c61277e6c08944ef158b84a866d97ad08ad7e89"
+
+[[files]]
+file = ".git/objects/e3/64a6bfa5ff962e5ed96ebc8620a05461e0817e"
+hash = "8e944b7d97996fa4ef641c0ec2ba2d876a26caa013207f4bbc83957abc1affb9"
+
+[[files]]
+file = ".git/objects/e4/4af47dbd17f3f803d3e21737ccc45d44f59b16"
+hash = "5d2cd0613a2767b170fa760a9babe4283f128123434a4d489bfb0ccd6b33cbd6"
+
+[[files]]
+file = ".git/objects/e8/0cd6659a0211a90e4010f0eef3901e7080edae"
+hash = "7fee6a8bc9812836944288b5fca1af6d79ee115f634089b10cb4c1d52cd861fe"
+
+[[files]]
+file = ".git/objects/f2/f331e205289f508793c4120e228be607bb8211"
+hash = "92d6be65b55fecb71c3f5676dd6cde3041296958b2fcdecf877b7d01723fdc47"
+
+[[files]]
+file = ".git/objects/f4/705cb4b56c4010e11449e36e48d324a02e7075"
+hash = "c28cac87ed1af66e45e4efffa42e326b36912b20b96ab8d9e8d2950891292b49"
+
+[[files]]
+file = ".git/objects/f8/235c6a039949fe8119cea54eb3a8b81f2d08af"
+hash = "54bd01a1f529d260c5d667d8dab475df67f586c8c43bee5cc9b0e4d5e6830c44"
+
+[[files]]
+file = ".git/objects/f8/3b3394d30d273d00851d7063d00a19768a5b94"
+hash = "8146aba4c04b88815a0c965e5438bf3505cfae60f17a7c0195e4c8343f1d7741"
+
+[[files]]
+file = ".git/refs/heads/master"
+hash = "ab35d7ddbe0e015a2c83c917702b6f57b7d80580e92d569fea7ab92f82afd178"
+
+[[files]]
+file = ".gitignore"
+hash = "54ca9031265fd183a45c950bd2ee7a43f263ecc4420b3a525744798712c7d690"
+
+[[files]]
 file = "fwogkit.zip"
-hash = "825a89778dfe96428c00a5a68ecfd80d0b634d82c84abf27b9eca6697b4e8670"
+hash = "27e09d4f7c948658d55eb4e966901660791d81de476d303b554742a2f60f298c"
 
 [[files]]
 file = "mods/adorn.toml"
@@ -52,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/carpet-extra.toml"
 hash = "0a7caf4868361ca4f0d843fc239d00e33eedecae381170c3201df928560af8cf"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "0117381fbdbaa942238ac85ddcb64c4d7fc1c3ead2cb8ba3dd93361969b62a60"
 metafile = true
 
 [[files]]
