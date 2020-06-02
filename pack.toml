@@ -1,0 +1,11 @@
+name = "Fwogkit"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f32f182b59c46a6d4bf6ce58793ae148e7d73a79bcfb80501cefa3256d56f54a"
+
+[versions]
+fabric = "0.8.5+build.199"
+minecraft = "1.15.2"
+yarn = "1.15.2+build.17"

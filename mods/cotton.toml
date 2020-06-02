@@ -1,0 +1,14 @@
+name = "Cotton"
+filename = "cotton-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2932/444/cotton-1.0.3.jar"
+hash-format = "murmur2"
+hash = "362968347"
+
+[update]
+[update.curseforge]
+file-id = 2932444
+project-id = 318160
+release-channel = "beta"

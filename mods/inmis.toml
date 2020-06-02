@@ -1,0 +1,14 @@
+name = "Inmis"
+filename = "inmis-2.1.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2970/409/inmis-2.1.2-beta.jar"
+hash-format = "murmur2"
+hash = "1722919418"
+
+[update]
+[update.curseforge]
+file-id = 2970409
+project-id = 369254
+release-channel = "beta"

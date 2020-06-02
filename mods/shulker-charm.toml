@@ -1,0 +1,14 @@
+name = "Shulker Charm"
+filename = "shulkercharm-1.1.2+1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2873/534/shulkercharm-1.1.2+1.15.2.jar"
+hash-format = "murmur2"
+hash = "1916932204"
+
+[update]
+[update.curseforge]
+file-id = 2873534
+project-id = 354940
+release-channel = "beta"

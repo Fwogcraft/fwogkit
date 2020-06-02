@@ -1,0 +1,14 @@
+name = "Carpet Extra"
+filename = "carpet-extra-1.15.2-1.3.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2960/464/carpet-extra-1.15.2-1.3.23.jar"
+hash-format = "murmur2"
+hash = "3640232127"
+
+[update]
+[update.curseforge]
+file-id = 2960464
+project-id = 349240
+release-channel = "beta"

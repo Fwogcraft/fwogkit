@@ -1,0 +1,14 @@
+name = "Clipboards"
+filename = "clipboards-1.0.0+1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2881/122/clipboards-1.0.0+1.15.2.jar"
+hash-format = "murmur2"
+hash = "3094709617"
+
+[update]
+[update.curseforge]
+file-id = 2881122
+project-id = 362674
+release-channel = "beta"

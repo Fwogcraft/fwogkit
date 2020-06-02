@@ -1,0 +1,14 @@
+name = "RetroExchange"
+filename = "Retro-Exchange-1.15-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2833/943/Retro-Exchange-1.15-3.1.0.jar"
+hash-format = "murmur2"
+hash = "287790928"
+
+[update]
+[update.curseforge]
+file-id = 2833943
+project-id = 312815
+release-channel = "beta"

@@ -1,0 +1,315 @@
+hash-format = "sha256"
+
+[[files]]
+file = "fwogkit.zip"
+hash = "825a89778dfe96428c00a5a68ecfd80d0b634d82c84abf27b9eca6697b4e8670"
+
+[[files]]
+file = "mods/adorn.toml"
+hash = "10627259d8d37e8b5f3f456ba9bfec90fa9285bdff6557503bef0a186b7f7711"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "dedc7c9b1a49e7a088b31400e2031eb8199810c029766a7b0ca9e2eab7068cd8"
+metafile = true
+
+[[files]]
+file = "mods/aquarius.toml"
+hash = "275781a578b4ee6d00112cd4734400c3b0ff2fed53eee65da60b2d9ce890b5d0"
+metafile = true
+
+[[files]]
+file = "mods/bee-productive.toml"
+hash = "b8b4a98846e036a7c1d3c88127deda725531be3092ee3baaeaa59631829bc1d3"
+metafile = true
+
+[[files]]
+file = "mods/beenfo.toml"
+hash = "b13514aec5b183371755b9c8cfa30aab6d1e4e9493d2e552a1fe4de81e5b18f8"
+metafile = true
+
+[[files]]
+file = "mods/better-signs-and-frames.toml"
+hash = "93c548f25f068a8e8a9918d64cbd23b8ed3c6b9e73e56b9f948e6d086edd6b62"
+metafile = true
+
+[[files]]
+file = "mods/bigbuckets-fabric.toml"
+hash = "aa5101d58696c06c77b1311c241cd8e344d5bd214929fdf8961c114fac84b133"
+metafile = true
+
+[[files]]
+file = "mods/blockus.toml"
+hash = "151c7b8811921f257dc62dedde337e45aa7591daba12cbe7e079923f171c7aba"
+metafile = true
+
+[[files]]
+file = "mods/campanion.toml"
+hash = "c32275b0d69e1ee6540de3d3ff2aaddfbdbd75c23c52e7112e6f68a192ed24d9"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.toml"
+hash = "0a7caf4868361ca4f0d843fc239d00e33eedecae381170c3201df928560af8cf"
+metafile = true
+
+[[files]]
+file = "mods/cartloaders.toml"
+hash = "da5a73734d1cde9ea92f3e3363fd33570870015763053632f6a03419b477eb86"
+metafile = true
+
+[[files]]
+file = "mods/cave-biomes.toml"
+hash = "48458cb09348b66736d04630a0b7defb34a46b760720227c4ad29fe72de80435"
+metafile = true
+
+[[files]]
+file = "mods/chatcalc.toml"
+hash = "01ebc757041647a12591d6473b360a067bf634eeb99491b830218cdda411af75"
+metafile = true
+
+[[files]]
+file = "mods/clipboards.toml"
+hash = "4b569ead37748851e530b8272202399583e7907575c1268dfc612e05e313ea49"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-forge.toml"
+hash = "9c13d91f4c72b2bf8d96d186b2c9680f738cb5398e97e664db9507672f3eaf67"
+metafile = true
+
+[[files]]
+file = "mods/convenient-mobgriefing.toml"
+hash = "a8313ec3bc9d7adde4392a634eaccaa53a4a157d6a3cefa4073ee266b8c08629"
+metafile = true
+
+[[files]]
+file = "mods/conveyance.toml"
+hash = "7003c661cfadbcacc0129a0bdb186228d2c49a8cbe86f7edee63d815c7922207"
+metafile = true
+
+[[files]]
+file = "mods/cotton.toml"
+hash = "4975194ec8e669430b462e73a79ee511f14b58a6c1393aea103fc2818ea9293d"
+metafile = true
+
+[[files]]
+file = "mods/couplings.toml"
+hash = "164ac6e37af8ad177e8417af7962033e50d194b8a83e4cd39a1e37f59b97ead8"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "779b022abb26a00f7ad65726b4045d65b7a23962c6b53c3307d0ab1f0f1d89c3"
+metafile = true
+
+[[files]]
+file = "mods/exotic-matter-library.toml"
+hash = "04ea5f780706757580d7f351e418b01a4dedfe0b2d7eac7dc4c7246ea82b84d5"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage-fabric.toml"
+hash = "7baa1366416676ecf96f0f08070228760a3c712c54bffe3202023474938d3216"
+metafile = true
+
+[[files]]
+file = "mods/extra-alchemy.toml"
+hash = "d92dd6a3b0126af42f4bb671464de1ce8c89a995a156871452f82d5bf6ace1d0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "972d0e1d678ad932f89b1122e687288278060f5cf3dc1ecdcefdb99e56bc9f14"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "dc12e08249d12b193f6e8afc816afdda938fc5d70f8310d9c9af89001bacbfdd"
+metafile = true
+
+[[files]]
+file = "mods/flax-mod-fabric.toml"
+hash = "896b2e4f9af920c23f33af7d7b1fef430b457e3240f713a97bbe1dbb4434e81d"
+metafile = true
+
+[[files]]
+file = "mods/flora-doubling.toml"
+hash = "f3580141b33ddc03964c21c60f522a0742f86d00f627ddc0e1848340f8fc0744"
+metafile = true
+
+[[files]]
+file = "mods/go-down.toml"
+hash = "c034b07f15661364ea158812b3f7d7ddb855ba9be8013e176adc5725dee4fcd4"
+metafile = true
+
+[[files]]
+file = "mods/greenstone-circuits.toml"
+hash = "525d88a35833e75406c51094f6d8c9670cd1f82b7ced888130eacaff2abb0040"
+metafile = true
+
+[[files]]
+file = "mods/horsestatsvanilla.toml"
+hash = "075fab220157b43fee6e1f7c9798eb87fe745d9e69a0034787b3ab837bc4754b"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.toml"
+hash = "e6312caf1150fe3e5632736eb096a3b9e548816de6fc7fc66691e30761ced268"
+metafile = true
+
+[[files]]
+file = "mods/i-am-very-smart.toml"
+hash = "b2b1eb39d555a4ddb479d3fb8fce819db11eab6083b702a97d89336bcd91b9ad"
+metafile = true
+
+[[files]]
+file = "mods/i-need-keybinds.toml"
+hash = "2808e66e07604a2f3a6ad872739eb18107c6932e6248611f3bbb34633daefb56"
+metafile = true
+
+[[files]]
+file = "mods/infinity-fix.toml"
+hash = "6db8f727fc1c61413ca22c848e91a5f03e831a8779c91620c2758f7936f80057"
+metafile = true
+
+[[files]]
+file = "mods/inmis.toml"
+hash = "40568be27316cc3d437f8ed1195b869b6bcedefde6fe1290c20cc65933010f23"
+metafile = true
+
+[[files]]
+file = "mods/jumpoverfences.toml"
+hash = "56050723a9a6a1bfc186186aac2ca1dbd5b382ef90c2034a9ff998f62e7cc4a0"
+metafile = true
+
+[[files]]
+file = "mods/libgamerule.toml"
+hash = "83acccda83822e7c5aa8d331d930eeb6daca37cbab6ad8c5e577f7e75086d284"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "6b8896807cc4b7c0e95dd231127af2ac69dae188839085d783f7aab7b91a56e7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "c8e53dd359002c73c7c7af2473e2f3d35d4e931e725a3c82e0f9cbe88285d556"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "6844b705a94bf9a5507cd70b4c1bca1a2d01ca3dc7fc263f80a8d0d0662ad093"
+metafile = true
+
+[[files]]
+file = "mods/more-berries.toml"
+hash = "ae7206ec16e8bfc62133e2c1f23d07b12e9f88981d9f134d0b92bc296440f3a1"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "80745e4c17fbd0a6ca287c2bc6d116df1014b7f09832e0730e14eae959c21fc8"
+metafile = true
+
+[[files]]
+file = "mods/obsidian-pressure-plate.toml"
+hash = "7417874ef51cefcc588fc0e3e717f446576acae9512a46a0af62e93b309d67db"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "6af30c4399f9df704367a401fb8515be911a8656130e4ff375911c71949ac658"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "05ab90e6b069edb0b98389c5d917eef8293f9e7a5e3fbdcb18fefaa5635b8db0"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.toml"
+hash = "d9be93275558396d300548004701f43ce1630b1689e84c44be84d5126af1ef99"
+metafile = true
+
+[[files]]
+file = "mods/retroexchange.toml"
+hash = "7645d465093b115b28ecc4e00b532839bec11175e0111cceac995990ed697bf2"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "80da21b0bb02975b9bac8fbbc6e8a1243a35f633b065276be953f47bcbf242df"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "0ce58550297760bf7018b5f6ae96f55b01a64f953ff5a4a0aab51baeceb7ed90"
+metafile = true
+
+[[files]]
+file = "mods/rswires.toml"
+hash = "f2729ba93450b878953ca30c84f074f3fecb3df27d06d5e853be683fcfbc0a83"
+metafile = true
+
+[[files]]
+file = "mods/shulker-charm.toml"
+hash = "4de609c5079e8c73b49fce17a342efca9a9c1a4221fca01567f6e7e7ff30634c"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "ce25a01b2f2fd2ba3354ff7209efac38eb650c4aecf725b55a5ae4f830c1d078"
+metafile = true
+
+[[files]]
+file = "mods/simplepipes.toml"
+hash = "335a6a7648e34840d2d1665b9cb6e38b3db6ba138daf7ae0c941829b824a62c8"
+metafile = true
+
+[[files]]
+file = "mods/simplex-terrain-generation.toml"
+hash = "bd7408faae8f1cb7e2e0d68b96ea917241080bef86d13002a69407d6a8a36953"
+metafile = true
+
+[[files]]
+file = "mods/sleepvote.toml"
+hash = "bf8bdd97ec9dc613b31640306492c4167cf8433072362662aea798a16128ded1"
+metafile = true
+
+[[files]]
+file = "mods/stockpile.toml"
+hash = "b0b791350ea3046bdfb9221c45c371d634bf2de8b1b0d2acd5574c9ff9d2b292"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.toml"
+hash = "c7ca85e9b7b8ee744aae8c5d271a25324fe4be735ab8c52843750019a23a5d0e"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.toml"
+hash = "d058980acd8eb9c1be790667a6123189e3c9da4d622912604785f21cea9f8718"
+metafile = true
+
+[[files]]
+file = "mods/traverse.toml"
+hash = "bffe731611db6fab19428ee0f18b6fb460f5a1f8016716233d46ce105be9c7f3"
+metafile = true
+
+[[files]]
+file = "mods/trees-do-not-float.toml"
+hash = "dee2e9b38fc9f9023524a373ca9af425a941d129dd8501d262d673a32d00f8c1"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "9c5568a8da0284e31e4b251acfc5f49f92cf7dd4a3eba114bd398dd86e56c22b"
+metafile = true
+
+[[files]]
+file = "mods/voxelmap.toml"
+hash = "85a7e54518a4877f1b730513300a4dd058ccda824818773e76a6ea0080cb7648"
+metafile = true

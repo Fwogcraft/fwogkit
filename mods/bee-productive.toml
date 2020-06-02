@@ -1,0 +1,14 @@
+name = "Bee Productive"
+filename = "beeproductive-1.0.2+1.15.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2865/964/beeproductive-1.0.2+1.15.1.jar"
+hash-format = "murmur2"
+hash = "3032026550"
+
+[update]
+[update.curseforge]
+file-id = 2865964
+project-id = 355680
+release-channel = "beta"

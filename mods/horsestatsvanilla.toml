@@ -1,0 +1,14 @@
+name = "Horse Stats Vanilla (Fabric)"
+filename = "horse-stats-vanilla-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2887/319/horse-stats-vanilla-1.0.5.jar"
+hash-format = "murmur2"
+hash = "3347143019"
+
+[update]
+[update.curseforge]
+file-id = 2887319
+project-id = 351393
+release-channel = "beta"

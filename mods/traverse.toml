@@ -1,0 +1,14 @@
+name = "Traverse"
+filename = "traverse-2.1.14+build.37.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2957/988/traverse-2.1.14+build.37.jar"
+hash-format = "murmur2"
+hash = "2718724171"
+
+[update]
+[update.curseforge]
+file-id = 2957988
+project-id = 308777
+release-channel = "beta"

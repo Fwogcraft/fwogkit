@@ -1,0 +1,14 @@
+name = "Phosphor (Fabric)"
+filename = "phosphor-fabric-mc1.15.2-0.5.2+build.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2918/761/phosphor-fabric-mc1.15.2-0.5.2+build.6.jar"
+hash-format = "murmur2"
+hash = "1807601034"
+
+[update]
+[update.curseforge]
+file-id = 2918761
+project-id = 372124
+release-channel = "beta"

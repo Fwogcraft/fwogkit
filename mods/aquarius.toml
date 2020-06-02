@@ -1,0 +1,14 @@
+name = "Aquarius"
+filename = "aquarius-1.4.0+1.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2834/175/aquarius-1.4.0+1.15.jar"
+hash-format = "murmur2"
+hash = "2857934996"
+
+[update]
+[update.curseforge]
+file-id = 2834175
+project-id = 301299
+release-channel = "beta"

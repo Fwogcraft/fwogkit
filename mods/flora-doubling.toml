@@ -1,0 +1,14 @@
+name = "Flora Doubling (Forge & Fabric)"
+filename = "floradoubling-1.15.2-20w06a-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2876/518/floradoubling-1.15.2-20w06a-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3300301979"
+
+[update]
+[update.curseforge]
+file-id = 2876518
+project-id = 332831
+release-channel = "beta"

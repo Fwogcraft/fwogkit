@@ -1,0 +1,14 @@
+name = "Better Signs & Frames"
+filename = "betterSignsAndFrames-0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2965/151/betterSignsAndFrames-0.5.1.jar"
+hash-format = "murmur2"
+hash = "349065571"
+
+[update]
+[update.curseforge]
+file-id = 2965151
+project-id = 384963
+release-channel = "beta"
