@@ -1,9 +1,9 @@
 # fwogkit
-Minecraft Mod Pack for the Fwogcraft community modded server
+Minecraft Mod Pack for the Fwogcraft community modded server.
 
-This is the 1.15.2 version of the modpack used for the Fwogcraft Modded server.
+This is the 1.15.2 version of the modpack used for the Fwogcraft Modded server, but will be updated to 1.16 once there's a stable release.
 
-It is built and managed with [packwiz](https://github.com/comp500/packwiz) and suitable for installation into [MultiMC](https://multimc.org/)
+It is a [Fabric](https://fabricmc.net/) modpack built and managed with [packwiz](https://github.com/comp500/packwiz) and suitable for installation into [MultiMC](https://multimc.org/)
 
 This pack has been heavily inspired by the [AOF-Mini](https://github.com/AllOfFabric/AOF-Mini) and [All-of-Fabric-2](https://github.com/AllOfFabric/All-of-Fabric-2) modpacks.
 
