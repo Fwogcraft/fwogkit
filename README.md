@@ -8,3 +8,7 @@ It is a [Fabric](https://fabricmc.net/) modpack built and managed with [packwiz]
 This pack has been heavily inspired by the [AOF-Mini](https://github.com/AllOfFabric/AOF-Mini) and [All-of-Fabric-2](https://github.com/AllOfFabric/All-of-Fabric-2) modpacks.
 
 If using this pack with MultiMC, you'll need to manually install Fabric after installing the pack.
+
+## Installing
+
+We have a detailed [Installation Guide](https://github.com/Fwogcraft/fwogkit/wiki/Installation) for the modpack and its prerequisites here to help you get started.
