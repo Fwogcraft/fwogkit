@@ -1,14 +1,14 @@
 name = "Ok Zoomer"
-filename = "okzoomer-2.1.0-beta.4.jar"
+filename = "okzoomer-2.1.4-1.15.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2874/706/okzoomer-2.1.0-beta.4.jar"
+url = "https://edge.forgecdn.net/files/2909/669/okzoomer-2.1.4-1.15.2.jar"
 hash-format = "murmur2"
-hash = "3531409480"
+hash = "3794447176"
 
 [update]
 [update.curseforge]
-file-id = 2874706
+file-id = 2909669
 project-id = 354047
 release-channel = "beta"
