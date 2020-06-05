@@ -549,11 +549,6 @@ hash = "2f84e6f995a5d28b06fb7ee9045bd32a188af9137f09fb4b5faab39a19762856"
 metafile = true
 
 [[files]]
-file = "mods/cartloaders.toml"
-hash = "da5a73734d1cde9ea92f3e3363fd33570870015763053632f6a03419b477eb86"
-metafile = true
-
-[[files]]
 file = "mods/cave-biomes.toml"
 hash = "48458cb09348b66736d04630a0b7defb34a46b760720227c4ad29fe72de80435"
 metafile = true
@@ -766,11 +761,6 @@ metafile = true
 [[files]]
 file = "mods/simplex-terrain-generation.toml"
 hash = "bd7408faae8f1cb7e2e0d68b96ea917241080bef86d13002a69407d6a8a36953"
-metafile = true
-
-[[files]]
-file = "mods/sleepvote.toml"
-hash = "bf8bdd97ec9dc613b31640306492c4167cf8433072362662aea798a16128ded1"
 metafile = true
 
 [[files]]
