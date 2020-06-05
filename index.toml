@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage-fabric.toml"
-hash = "7baa1366416676ecf96f0f08070228760a3c712c54bffe3202023474938d3216"
+hash = "9a02fd6d30a667f2064e80dbb2d356ef5c8c6595916433d2d31b39858cc5e637"
 metafile = true
 
 [[files]]
