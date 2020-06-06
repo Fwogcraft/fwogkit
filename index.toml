@@ -809,6 +809,11 @@ hash = "40568be27316cc3d437f8ed1195b869b6bcedefde6fe1290c20cc65933010f23"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.toml"
+hash = "00a91981e42a0c2c88bf04767aaaee3deba6cefcc4462c7b1a19675758932276"
+metafile = true
+
+[[files]]
 file = "mods/jumpoverfences.toml"
 hash = "56050723a9a6a1bfc186186aac2ca1dbd5b382ef90c2034a9ff998f62e7cc4a0"
 metafile = true
