@@ -1,14 +1,14 @@
 name = "Convenient mobGriefing"
-filename = "convenient-mobgriefing-1.1.1.jar"
+filename = "convenient-mobgriefing-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2943/991/convenient-mobgriefing-1.1.1.jar"
+url = "https://edge.forgecdn.net/files/2977/784/convenient-mobgriefing-1.1.2.jar"
 hash-format = "murmur2"
-hash = "2956573"
+hash = "3722493462"
 
 [update]
 [update.curseforge]
-file-id = 2943991
+file-id = 2977784
 project-id = 374048
 release-channel = "beta"

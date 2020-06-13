@@ -1026,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/convenient-mobgriefing.toml"
-hash = "a8313ec3bc9d7adde4392a634eaccaa53a4a157d6a3cefa4073ee266b8c08629"
+hash = "3f99e4e6764ca41b8874432aed030472ceeb7001c2bb5872eb800a29fbb0c2d8"
 metafile = true
 
 [[files]]
@@ -1061,12 +1061,12 @@ metafile = true
 
 [[files]]
 file = "mods/extra-alchemy.toml"
-hash = "d92dd6a3b0126af42f4bb671464de1ce8c89a995a156871452f82d5bf6ace1d0"
+hash = "a8cdfdcb2ebabe97f62846de09f7d323e2e44ccdf6aeb682b60c92901096c852"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "972d0e1d678ad932f89b1122e687288278060f5cf3dc1ecdcefdb99e56bc9f14"
+hash = "42338773c57a1706285b18e81fbbc506e739217ca76ff279196f8dadfd2c787f"
 metafile = true
 
 [[files]]
@@ -1191,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "f32afc5480f7a2ab3d5dc9faeb70a9f0c9128f213d2ecffed5a742e5ddc7686d"
+hash = "2cebf6d1d8f7f78b0b65747801c02f43bf2e97b4b169196a5ab328c6d0215922"
 metafile = true
 
 [[files]]
