@@ -1175,6 +1175,11 @@ hash = "fead07b5f6624174ebf52fe9ffafb25929cceadd98eed74b2b68f208abbbbae3"
 metafile = true
 
 [[files]]
+file = "mods/orderly.toml"
+hash = "97e9b6447095ae51299b363a8befd4fa032bf2329480284dcc06cfd2cea1df05"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "05ab90e6b069edb0b98389c5d917eef8293f9e7a5e3fbdcb18fefaa5635b8db0"
 metafile = true

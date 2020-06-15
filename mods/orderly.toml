@@ -1,0 +1,14 @@
+name = "Orderly (Fabric)"
+filename = "orderly-1.2.1+build.4-1.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2866/146/orderly-1.2.1+build.4-1.15.jar"
+hash-format = "murmur2"
+hash = "292752442"
+
+[update]
+[update.curseforge]
+file-id = 2866146
+project-id = 332547
+release-channel = "beta"
