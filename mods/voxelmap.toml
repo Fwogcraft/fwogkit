@@ -1,14 +1,14 @@
 name = "VoxelMap"
-filename = "fabricmod_VoxelMap-1.9.19_for_1.15.2.jar"
+filename = "fabricmod_VoxelMap-1.9.20_for_1.15.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2970/139/fabricmod_VoxelMap-1.9.19_for_1.15.2.jar"
+url = "https://edge.forgecdn.net/files/2979/517/fabricmod_VoxelMap-1.9.20_for_1.15.2.jar"
 hash-format = "murmur2"
-hash = "3434455593"
+hash = "583416666"
 
 [update]
 [update.curseforge]
-file-id = 2970139
+file-id = 2979517
 project-id = 225179
 release-channel = "beta"
