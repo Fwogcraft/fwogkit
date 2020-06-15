@@ -3,7 +3,7 @@ name = "Fwogkit"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7ae7ccc8a6fb5f824dc32cfa6a19606455112dcfdd86c8d510273caa7bacbb96"
+hash = "a0cc9d382cad0e229529f52c2243273c50e0075ee0f67854dbe1aebad7a43901"
 
 [versions]
 fabric = "0.8.5+build.199"
