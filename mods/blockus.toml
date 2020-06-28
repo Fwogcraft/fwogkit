@@ -1,14 +1,14 @@
 name = "Blockus"
-filename = "blockus-1.5.3-1.15.2.jar"
+filename = "blockus-1.5.3.3-1.15.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2980/45/blockus-1.5.3-1.15.2.jar"
+url = "https://edge.forgecdn.net/files/2988/625/blockus-1.5.3.3-1.15.2.jar"
 hash-format = "murmur2"
-hash = "3021637903"
+hash = "1543367143"
 
 [update]
 [update.curseforge]
-file-id = 2980045
+file-id = 2988625
 project-id = 312289
 release-channel = "beta"

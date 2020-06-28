@@ -1,14 +1,14 @@
 name = "Beenfo"
-filename = "beenfo-1.0.3.jar"
+filename = "beenfo-1.0.3-bb.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2875/664/beenfo-1.0.3.jar"
+url = "https://edge.forgecdn.net/files/2985/71/beenfo-1.0.3-bb.jar"
 hash-format = "murmur2"
-hash = "2045415007"
+hash = "4188640547"
 
 [update]
 [update.curseforge]
-file-id = 2875664
+file-id = 2985071
 project-id = 357256
 release-channel = "beta"
