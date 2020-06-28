@@ -1,0 +1,14 @@
+name = "Gubbins"
+filename = "gubbins-1.1.0-1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2990/872/gubbins-1.1.0-1.16.1.jar"
+hash-format = "murmur2"
+hash = "4188781529"
+
+[update]
+[update.curseforge]
+file-id = 2990872
+project-id = 374432
+release-channel = "beta"

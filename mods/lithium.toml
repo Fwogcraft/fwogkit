@@ -1,14 +1,14 @@
 name = "Lithium (Fabric)"
-filename = "lithium-mc1.15.2-fabric-0.4.6-mod.jar"
+filename = "lithium-fabric-mc1.16.1-0.5.0-rc1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2904/300/lithium-mc1.15.2-fabric-0.4.6-mod.jar"
+url = "https://edge.forgecdn.net/files/2987/754/lithium-fabric-mc1.16.1-0.5.0-rc1.jar"
 hash-format = "murmur2"
-hash = "3837425982"
+hash = "3019781698"
 
 [update]
 [update.curseforge]
-file-id = 2904300
+file-id = 2987754
 project-id = 360438
 release-channel = "beta"

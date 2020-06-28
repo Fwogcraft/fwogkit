@@ -1,14 +1,14 @@
 name = "Not Enough Crashes"
-filename = "notenoughcrashes-1.2.4+1.15.1.jar"
+filename = "notenoughcrashes-1.2.4+1.16.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2937/754/notenoughcrashes-1.2.4+1.15.1.jar"
+url = "https://edge.forgecdn.net/files/2988/479/notenoughcrashes-1.2.4+1.16.1.jar"
 hash-format = "murmur2"
-hash = "2410694627"
+hash = "2208728314"
 
 [update]
 [update.curseforge]
-file-id = 2937754
+file-id = 2988479
 project-id = 353890
 release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Hwyla"
-filename = "Hwyla-fabric-1.15.2-1.9.22-73.jar"
+filename = "Hwyla-fabric-1.16.1-1.9.22-75.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2931/299/Hwyla-fabric-1.15.2-1.9.22-73.jar"
+url = "https://edge.forgecdn.net/files/2989/943/Hwyla-fabric-1.16.1-1.9.22-75.jar"
 hash-format = "murmur2"
-hash = "149521984"
+hash = "683652870"
 
 [update]
 [update.curseforge]
-file-id = 2931299
+file-id = 2989943
 project-id = 253449
 release-channel = "beta"

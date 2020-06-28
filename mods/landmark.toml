@@ -1,0 +1,14 @@
+name = "Landmark"
+filename = "landmark-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2989/153/landmark-0.1.1.jar"
+hash-format = "murmur2"
+hash = "49232881"
+
+[update]
+[update.curseforge]
+file-id = 2989153
+project-id = 391186
+release-channel = "beta"

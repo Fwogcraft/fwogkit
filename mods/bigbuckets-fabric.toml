@@ -3,12 +3,12 @@ filename = "bigbuckets-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2876/180/bigbuckets-1.1.0.jar"
+url = "https://edge.forgecdn.net/files/2908/953/bigbuckets-1.1.0.jar"
 hash-format = "murmur2"
-hash = "1259042029"
+hash = "2478571438"
 
 [update]
 [update.curseforge]
-file-id = 2876180
+file-id = 2908953
 project-id = 352959
 release-channel = "beta"

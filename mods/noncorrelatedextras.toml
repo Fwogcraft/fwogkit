@@ -1,0 +1,14 @@
+name = "[Fabric] NonCorrelatedExtras"
+filename = "noncorrelatedextras-0.3.1+1.16-rc1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2986/452/noncorrelatedextras-0.3.1+1.16-rc1.jar"
+hash-format = "murmur2"
+hash = "2461114903"
+
+[update]
+[update.curseforge]
+file-id = 2986452
+project-id = 362421
+release-channel = "beta"

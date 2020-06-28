@@ -1,0 +1,14 @@
+name = "Cinderscapes"
+filename = "cinderscapes-1.0.1+build.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2988/221/cinderscapes-1.0.1+build.2.jar"
+hash-format = "murmur2"
+hash = "4122381467"
+
+[update]
+[update.curseforge]
+file-id = 2988221
+project-id = 391429
+release-channel = "beta"

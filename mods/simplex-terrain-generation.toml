@@ -1,14 +1,14 @@
 name = "Simplex Terrain Generation"
-filename = "simplexterrain-0.5.1.jar"
+filename = "simplexterrain-0.6.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2884/911/simplexterrain-0.5.1.jar"
+url = "https://edge.forgecdn.net/files/2989/381/simplexterrain-0.6.4.jar"
 hash-format = "murmur2"
-hash = "1768246452"
+hash = "2982865115"
 
 [update]
 [update.curseforge]
-file-id = 2884911
+file-id = 2989381
 project-id = 352997
 release-channel = "beta"

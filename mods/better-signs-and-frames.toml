@@ -1,14 +1,14 @@
 name = "Better Signs & Frames"
-filename = "betterSignsAndFrames-0.5.1.jar"
+filename = "better-signs-and-frames-mc-1.16.1-0.6.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2965/151/betterSignsAndFrames-0.5.1.jar"
+url = "https://edge.forgecdn.net/files/2990/806/better-signs-and-frames-mc-1.16.1-0.6.1.jar"
 hash-format = "murmur2"
-hash = "349065571"
+hash = "1389659314"
 
 [update]
 [update.curseforge]
-file-id = 2965151
+file-id = 2990806
 project-id = 384963
 release-channel = "beta"

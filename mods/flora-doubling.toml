@@ -1,14 +1,14 @@
 name = "Flora Doubling (Forge & Fabric)"
-filename = "flora-doubling-1.15.2-1.1.1.jar"
+filename = "flora-doubling-1.16.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2987/768/flora-doubling-1.15.2-1.1.1.jar"
+url = "https://edge.forgecdn.net/files/2987/766/flora-doubling-1.16.1-1.1.1.jar"
 hash-format = "murmur2"
-hash = "4045558197"
+hash = "2850601217"
 
 [update]
 [update.curseforge]
-file-id = 2987768
+file-id = 2987766
 project-id = 332831
 release-channel = "beta"

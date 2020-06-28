@@ -1,0 +1,14 @@
+name = "Auto Config Updated API"
+filename = "autoconfig1u-3.2.0-unstable.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2959/870/autoconfig1u-3.2.0-unstable.jar"
+hash-format = "murmur2"
+hash = "3963412356"
+
+[update]
+[update.curseforge]
+file-id = 2959870
+project-id = 373261
+release-channel = "beta"

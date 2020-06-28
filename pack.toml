@@ -3,9 +3,9 @@ name = "Fwogkit"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "48647e6bd3c3531aa5c7a4e1c951d0c1c7028afe3a8af89a833cbc714fa0055e"
+hash = "f708f7f8b924a249deff97a64346d32439ef16d708d7ac2735625c3373b9ccb7"
 
 [versions]
-fabric = "0.8.5+build.199"
-minecraft = "1.15.2"
-yarn = "1.15.2+build.17"
+fabric = "0.8.8+build.202"
+minecraft = "1.16.1"
+yarn = "1.16.1+build.17"
